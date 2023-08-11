@@ -8,3 +8,7 @@ My all technical content willl be here listed from twitter, Medium. Hashnode. De
 2. [Smart Contract Wallets vs EOAs](https://medium.com/@thisvishalsingh/smart-contract-wallets-vs-eoas-7720fdca7141)
 
 3. [Road to Chainlink & Smart Contracts🤔](https://medium.com/@thisvishalsingh/road-to-chainlink-smart-contracts-9261f07467cb)
+
+4. [How smart contract funtion? And Their Potential.](https://medium.com/@thisvishalsingh/how-smart-contract-funtion-and-their-potential-faed122e3415)
+
+5. [What is Flow? A intro guide to the Flow blockchain.](https://medium.com/@thisvishalsingh/what-is-flow-a-intro-guide-to-the-flow-blockchain-7fc4abe52bff)
